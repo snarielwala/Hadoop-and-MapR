@@ -1,3 +1,6 @@
+//Author @ Samarth - Rohan - Devaki
+//The main class 
+//Set the mapper and reducer classes 
 
 
 import org.apache.hadoop.conf.Configuration;
